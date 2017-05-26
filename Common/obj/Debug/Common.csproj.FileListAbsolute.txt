@@ -1,0 +1,46 @@
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\Common.dll
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\Common.pdb
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\COM.Excel.dll
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\Excel.dll
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\OpenSmtp.dll
+D:\MyProduct\WebImagesUpload\Common\bin\Debug\OWC10Chart.dll
+D:\MyProduct\WebImagesUpload\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyProduct\WebImagesUpload\Common\obj\Debug\Common.dll
+D:\MyProduct\WebImagesUpload\Common\obj\Debug\Common.pdb
+D:\MyProduct\WebImagesUpload\bin\Common.dll
+D:\MyProduct\WebImagesUpload\bin\Common.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\bin\Common.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\bin\Common.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\obj\Debug\Common.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\obj\Debug\Common.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\Common.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\Common.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\COM.Excel.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\Excel.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\OpenSmtp.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\Common\bin\OWC10Chart.dll
+D:\MyProduct\ProductInventoryManagement\bin\Common.dll
+D:\MyProduct\ProductInventoryManagement\bin\Common.pdb
+D:\MVCOA\ProductInventoryManageMent\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MVCOA\ProductInventoryManageMent\Common\obj\Debug\Common.dll
+D:\MVCOA\ProductInventoryManageMent\Common\obj\Debug\Common.pdb
+D:\MVCOA\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.dll
+D:\MVCOA\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.pdb
+D:\MyWeb\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.dll
+D:\MyWeb\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.pdb
+D:\MyWeb\ProductInventoryManageMent\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyWeb\ProductInventoryManageMent\Common\obj\Debug\Common.dll
+D:\MyWeb\ProductInventoryManageMent\Common\obj\Debug\Common.pdb
+D:\MyProduct\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.dll
+D:\MyProduct\ProductInventoryManageMent\ProductInventoryManageMent\bin\Common.pdb
+D:\MyProduct\ProductInventoryManageMent\Common\obj\Debug\Common.dll
+D:\MyProduct\ProductInventoryManageMent\Common\obj\Debug\Common.pdb
+D:\MyProduct\ProductInventoryManageMent\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\Common\obj\Debug\Common.dll
+D:\MyProduct\MyEasyUI\Common\obj\Debug\Common.pdb
+D:\MyProduct\MyEasyUI\ProductInventoryManageMent\bin\Common.dll
+D:\MyProduct\MyEasyUI\ProductInventoryManageMent\bin\Common.pdb
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\Common.dll
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\Common.pdb

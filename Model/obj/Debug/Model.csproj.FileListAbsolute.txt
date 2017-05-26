@@ -1,0 +1,7 @@
+D:\MyProduct\MyEasyUI\Model\bin\Debug\Model.dll
+D:\MyProduct\MyEasyUI\Model\bin\Debug\Model.pdb
+D:\MyProduct\MyEasyUI\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\Model\obj\Debug\Model.dll
+D:\MyProduct\MyEasyUI\Model\obj\Debug\Model.pdb
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\Model.dll
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\Model.pdb

@@ -1,0 +1,5 @@
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\DAL.dll
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\DAL.pdb
+D:\MyProduct\MyEasyUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\DAL\obj\Debug\DAL.dll
+D:\MyProduct\MyEasyUI\DAL\obj\Debug\DAL.pdb

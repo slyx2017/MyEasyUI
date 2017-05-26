@@ -1,0 +1,5 @@
+D:\MyProduct\MyEasyUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\BLL.dll
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\BLL.pdb
+D:\MyProduct\MyEasyUI\BLL\obj\Debug\BLL.dll
+D:\MyProduct\MyEasyUI\BLL\obj\Debug\BLL.pdb

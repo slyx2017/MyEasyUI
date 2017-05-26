@@ -1,0 +1,64 @@
+[
+  {
+    "id": 11,
+    "text": "Photos",
+    "state": "closed",
+    "children": [
+      {
+        "id": 111,
+        "text": "Friend",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      },
+      {
+        "id": 112,
+        "text": "Wife",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      },
+      {
+        "id": 113,
+        "text": "Company",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Program Files",
+    "children": [
+      {
+        "id": 121,
+        "text": "Intel",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      },
+      {
+        "id": 122,
+        "text": "Java",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      },
+      {
+        "id": 123,
+        "text": "Microsoft Office",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      },
+      {
+        "id": 124,
+        "text": "Games",
+        "attributes": {
+          "url": "home.aspx"
+        }
+      }
+    ]
+  }
+]

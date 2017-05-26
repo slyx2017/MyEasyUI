@@ -1,0 +1,40 @@
+D:\MyProduct\WebImagesUpload\bin\DBUtility.dll
+D:\MyProduct\WebImagesUpload\bin\DBUtility.pdb
+D:\MyProduct\WebImagesUpload\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyProduct\WebImagesUpload\DBUtility\obj\Debug\DBUtility.dll
+D:\MyProduct\WebImagesUpload\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\bin\DBUtility.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\bin\DBUtility.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\DBUtility.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\DBUtility.pdb
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\IBatisNet.Common.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\IBatisNet.DataMapper.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\MySql.Data.dll
+C:\Users\zhiyong\Documents\Visual Studio 2015\Projects\ProductInventoryManagement\DBUtility\bin\System.Data.SQLite.DLL
+D:\MyProduct\ProductInventoryManagement\bin\DBUtility.dll
+D:\MyProduct\ProductInventoryManagement\bin\DBUtility.pdb
+D:\MVCOA\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.dll
+D:\MVCOA\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.pdb
+D:\MVCOA\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MVCOA\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.dll
+D:\MVCOA\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.pdb
+D:\MyWeb\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.dll
+D:\MyWeb\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.pdb
+D:\MyWeb\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyWeb\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.dll
+D:\MyWeb\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.pdb
+D:\MyProduct\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.dll
+D:\MyProduct\ProductInventoryManageMent\ProductInventoryManagement\bin\DBUtility.pdb
+D:\MyProduct\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.dll
+D:\MyProduct\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.pdb
+D:\MyProduct\ProductInventoryManageMent\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\ProductInventoryManagement\bin\DBUtility.dll
+D:\MyProduct\MyEasyUI\ProductInventoryManagement\bin\DBUtility.pdb
+D:\MyProduct\MyEasyUI\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyProduct\MyEasyUI\DBUtility\obj\Debug\DBUtility.dll
+D:\MyProduct\MyEasyUI\DBUtility\obj\Debug\DBUtility.pdb
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\DBUtility.dll
+D:\MyProduct\MyEasyUI\MyEasyUI\bin\DBUtility.pdb
